@@ -27,6 +27,7 @@ BOARD_HAVE_QCOM_FM := true
 
 # Dual Wifi
 WIFI_HIDL_FEATURE_DUAL_INTERFACE := true
+WIFI_HIDL_FEATURE_AWARE := true
 
 # Kernel
 TARGET_KERNEL_CONFIG := beryllium_defconfig
