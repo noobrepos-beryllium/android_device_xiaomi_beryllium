@@ -218,4 +218,7 @@
 	
 	<!-- Enable dual LTE capability support-->
     <bool name="config_dual_LTE_capability">true</bool>
+
+    <!-- Whether auto face unlock is enabled by default -->
+    <bool name="config_face_unlock_enabled_by_default">true</bool>
 </resources>
